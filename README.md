@@ -1,5 +1,6 @@
 # brainrotRain.js
 brainrotRain.js is a joke library i made using the [sigma-api](https://github.com/pcdelatara/sigma-api/) that makes **italian brainrot** appear from thin air.
+**Exapmle :** [🎉 BrainrotRain Control](https://pcdelatara.github.io/brainrotRain.js)
 
 # Usage:
 To import it to your html use : 
